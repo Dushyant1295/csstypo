@@ -1,5 +1,5 @@
 {
-  "name": "typography.css",
+  "name": "typographycss",
   "version": "1.0.0",
   "description": "Most modern CSS framework for typography",
   "main": "index.html",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Dushyant1295/typography.css/issues"
   },
-  "homepage": "https://github.com/Dushyant1295/typography.css#readme"
+  "homepage": "https://github.com/Dushyant1295/typography.css#readme",
+  "dependencies": {}
 }
